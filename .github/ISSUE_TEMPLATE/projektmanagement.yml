@@ -1,0 +1,44 @@
+---
+name: Projektmanagement
+description: Themen rund um Projektmanagement
+title: "[Projektmanagement]: "
+labels: ["Projektmanagement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Themenbezogene Aufgaben für Projektmanagement**
+  - type: checkboxes
+    id: projektmanagement-themen
+    attributes:
+      label: Wähle die relevanten Themen
+      options:
+        - label: Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten
+        - label: Projektdefinition, -planung, -durchführung, -abschluss
+        - label: Kick-Off-Meeting, Projektstrukturplan, Meilensteine
+        - label: Lasten- und Pflichtenheft
+        - label: Aufgaben und Rollen im Projekt
+        - label: Problemanalyse und Lösungsentwicklung
+        - label: Root-Cause-Analysis, 5 Whys
+        - label: Fehlermanagement, Ticketsysteme
+        - label: Vor- und Nachkalkulation
+  - type: textarea
+    id: chatgtp-support
+    attributes:
+      label: Brauchst du Hilfe von ChatGTP, Model o3-min? 💡
+      description: Erkläre kurz, woran du arbeitest – ChatGTP, Model o3-min hilft dir mit Tipps, Lösungen oder Ideen!
+      placeholder: Beschreibe dein Problem oder deine Frage...
+  - type: checkboxes
+    id: chatgtp-themen
+    attributes:
+      label: Womit soll ChatGTP, Model o3-min dir helfen?
+      options:
+        - label: Verständnisfragen zu den Themen
+        - label: Praxisbeispiele und Erklärungen
+        - label: Ressourcen und weiterführende Links
+        - label: Optimierung von Projektabläufen
+        - label: Code- oder technische Unterstützung
+  - type: markdown
+  id: Referenz
+  attributes:
+    value: "Kommunikation mit ChatGTP, Model o3-mini"
