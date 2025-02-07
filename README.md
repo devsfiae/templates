@@ -52,7 +52,7 @@ assignees: []
 - [ ] Überarbeitung
 
 **Referenzen:**  
-(z.B. Lehrbuchkapitel, Online-Ressourcen)
+(z.B. Chat/Dialog mit der KI/ChatGPT o3-mini, Lehrbuchkapitel, Online-Ressourcen)
 ```
 
 ---
@@ -64,7 +64,7 @@ assignees: []
 Klone das Repository auf deinen lokalen Rechner:
 
 ```bash
-git clone https://github.com/dein-benutzername/dein-repository.git
+git clone https://github.com/devsfiae/templates.git
 ```
 
 ---
@@ -72,7 +72,7 @@ git clone https://github.com/dein-benutzername/dein-repository.git
 ### 2. Repository-Verzeichnis betreten
 
 ```bash
-cd dein-repository
+cd templates
 ```
 
 ---
