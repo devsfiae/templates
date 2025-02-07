@@ -41,4 +41,4 @@ body:
   - type: markdown
     id: Referenz
     attributes:
-      value: "Kommunikation mit ChatGTP, Model o3-mini"
+      value: "Quellenangabe: Kommunikation mit ChatGTP, Model o3-mini"
