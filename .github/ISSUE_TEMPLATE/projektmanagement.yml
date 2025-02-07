@@ -39,6 +39,6 @@ body:
         - label: Optimierung von Projektabläufen
         - label: Code- oder technische Unterstützung
   - type: markdown
-  id: Referenz
-  attributes:
-    value: "Kommunikation mit ChatGTP, Model o3-mini"
+    id: Referenz
+    attributes:
+      value: "Kommunikation mit ChatGTP, Model o3-mini"
