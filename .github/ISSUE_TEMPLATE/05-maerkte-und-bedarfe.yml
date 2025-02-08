@@ -13,9 +13,9 @@ body:
     attributes:
       label: Wähle die relevanten Themen
       options:
-        - label: Marktformen: Monopol, Oligopol, Polypol
-        - label: Bedürfnis vs. Bedarf vs. Nachfrage
-        - label: Zielgruppenanalyse, Marktforschung
+        - label: "Marktformen: Monopol, Oligopol, Polypol"
+        - label: "Bedürfnis vs. Bedarf vs. Nachfrage"
+        - label: "Zielgruppenanalyse, Marktforschung"
   - type: markdown
     id: Referenz
     attributes:
