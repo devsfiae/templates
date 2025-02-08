@@ -17,3 +17,7 @@ body:
         - label: Netzplantechnik, Gantt-Diagramm, kritischer Pfad
         - label: Risikoanalyse und Projektcontrolling
         - label: Projektstrukturplanung (Top-Down, Bottom-Up, Yo-Yo)
+  - type: markdown
+    id: Referenz
+    attributes:
+      value: "Quellenangabe: Kommunikation mit ChatGTP, Model o3-mini"
