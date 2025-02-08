@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../praktikum"
+		},
+		{
+			"path": "../teil-1-gap"
 		}
 	],
 	"settings": {}
